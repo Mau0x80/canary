@@ -9,7 +9,7 @@ Ethereum block 7973538 hash is 0x9d6d492bd500da5b33cf95a5d610a73360fcaaa0.
 
 This message will be updated not later, than on the September 10th 2019.
 
-16.06.2018 — eth0x80@riseup.net
+16.06.2018 — mdelgado@riseup.net
 -----BEGIN PGP SIGNATURE-----
 
 iQIzBAEBCgAdFiEEXFgn/8E0l+OS2VIScM98nGOeUE4FAl0HCVcACgkQcM98nGOe
@@ -26,4 +26,3 @@ w9awFaes3LcgPWxNV2E4CzgtFxyLAfz5uRPpbgxNdvyMDdbLDblWu32R6hPedTbL
 PsKJieskGbcpCocfIYXAEgOxQJqQchHQRzny+uwLcS0Nzbb9SYQ=
 =MfyL
 -----END PGP SIGNATURE-----
-
