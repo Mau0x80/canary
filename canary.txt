@@ -5,24 +5,24 @@ Warrant Canary
 
 As of today, I did not receive any subpoenas or court orders.
 
-Ethereum block 7973538 hash is 0x9d6d492bd500da5b33cf95a5d610a73360fcaaa0.
+Ethereum block 8545121 hash is 0x52bc44d5378309ee2abf1539bf71de1b7d7be3b5.
 
-This message will be updated not later, than on the September 10th 2019.
+This message will be updated not later, than on the December 10th 2019.
 
-16.06.2018 — mdelgado@riseup.net
+13.09.2019 — mdelgado@riseup.net
 -----BEGIN PGP SIGNATURE-----
 
-iQIzBAEBCgAdFiEEXFgn/8E0l+OS2VIScM98nGOeUE4FAl0HCVcACgkQcM98nGOe
-UE685g//Q0TbZy2iOtmRPYKJ/RVyjelEqM1aW/HGGkKhXsYgb2+lzlzRwPxh+HL1
-6j9raXjRoIr/8yn0/YPCFM+Uhrtmu9DXOW3OHJTHPkSs/9kcnLXoL6CPjloivU/B
-8dyfxCrHS+ZVjkG4FxbgQCEI2d45SE+OmB1oObYYWk9+YpNfLbmITnHtuZwQobt/
-W89yras+vlDuOPqpeQO/aOdyFgtIaM+AVS4pM5VYLHy7+T/0AC3P8292ttr7wvDD
-b+6+QexDdpHs9QUVqUNztTmaH/sQr7qzPTlrlPYnHA2Ajdb4n2WxM7HUhOqruQAe
-k3CMyGHcjdz7MQKyVpi3e2qJrLF/DVyL+9i04HQcBY+WU1+unE9OvfAqrHD0iftu
-ecZoeQxPO8tqA99sFGDiCQwGr/lt6qdcDQrulvjDzZBHtdye9PQUepxlD6oOoLX0
-CTCy074mijh5zzY9QSFW4PsOLgLamh5JjaTu7emgP0syu0tw8T8MHfOd8JtLhe1e
-gpJZ3cIgKQ95us5I2coKvuUyBAh5CQ5xg0YRTnaetq2K7pO6b2fSnGhM7oX52b7/
-w9awFaes3LcgPWxNV2E4CzgtFxyLAfz5uRPpbgxNdvyMDdbLDblWu32R6hPedTbL
-PsKJieskGbcpCocfIYXAEgOxQJqQchHQRzny+uwLcS0Nzbb9SYQ=
-=MfyL
+iQIzBAEBCgAdFiEEXFgn/8E0l+OS2VIScM98nGOeUE4FAl18Vi0ACgkQcM98nGOe
+UE7Snw//bZ1iIdhrDsXzAU+scBJHO7UI7HwZItnhZUXdgrVL5p0yuGENxpGq4KJ6
+ekosblKuomD3nAyQu3q5lH7ZH6jXPP4HqOkbqxT3EOSTCp2MbVt8GernLm99i4ym
+wy4sZyQqIqo16L2hS3ioNwqqovbYWvoyowQguHVX99yFwg1Ugw6A6Qu+9lJUnuiz
+2LqCyPcu5UraA7ZmxODtTj/xngRnm1dmD6fkVpioLha8TDlTrk0dH4qRDEaWNDHp
+DJDsheyR62EV/OEpIKtdNJUzT+fH4I3ih04WB8na4kHSBmQ6HksvZmD+MJQRXO9a
+siRGaNCZ/Ro4Q8W046ed3GKrXcIBY8xncaSTPaxHvWpsODWCsS0c8x7fZdrN3iDi
+oVOFaidugxjmVtJ3az0OpNaagQsTHmNrjn5IZxRktfYpz4InfZye/tTTjRfZI0eR
+rwv9ZfPcb7wO37ddfemAf8zeh603yHekUwYZMx7JEKp3vlyz91FtpbfOKbexkzt8
+zdbnRvSugZR194jQIhKaGnkUPtuSlIO/Ki0X2lE+sxa2qXIL0pXDeGxWPpeAcdR+
+toJTze79K+PrpKZKcSkhv+dDz+4m44oZ2WmmQ1b6XjlB7TLgx6QxG23ixsvUC4d8
+vfk1nwmGm6PSLYldSdWafrP5Q2NlUd+mcH8jTR/dxXn0WOtxFjg=
+=zGTK
 -----END PGP SIGNATURE-----
